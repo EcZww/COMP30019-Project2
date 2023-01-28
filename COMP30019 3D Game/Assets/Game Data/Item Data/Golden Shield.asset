@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfae5aaf0e930f4980c77bf6dd3321f, type: 3}
+  m_Name: Golden Shield
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: GoldenShield
+  itemIcon: {fileID: 21300000, guid: 2a4ca7b6208065342ac9cbc0f4e43152, type: 3}
+  itemAmount: 1
+  description: Golden shield is an advanced defensive mechanism that protects the
+    character from attacks. Using the Golen Shield imbues player with +1000 Health
+    and +50 Defence power.
+  stackable: 0
+  useableData: {fileID: 0}
+  weaponPrefab: {fileID: 0}
+  weaponData: {fileID: 0}
+  weaponAnimator: {fileID: 0}
+  shieldPrefab: {fileID: 4419628898724442933, guid: c8c39d0606ec3ce4f9dc58a1f4fd16d3, type: 3}
+  shieldData: {fileID: 11400000, guid: a995efb869a077f4da158769016058e4, type: 2}

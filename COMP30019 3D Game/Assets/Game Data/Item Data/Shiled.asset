@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfae5aaf0e930f4980c77bf6dd3321f, type: 3}
+  m_Name: Shiled
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: Normal Shield
+  itemIcon: {fileID: 21300000, guid: fbb643937391b8f41af1bf8781378f0d, type: 3}
+  itemAmount: 1
+  description: Shield is a regular defensive mechanism that protects the player from
+    attacks. Using a normal shield imbues player with +50 Health and +2 Defence power.
+  stackable: 0
+  useableData: {fileID: 0}
+  weaponPrefab: {fileID: 0}
+  weaponData: {fileID: 0}
+  weaponAnimator: {fileID: 0}
+  shieldPrefab: {fileID: 3993357783357384368, guid: e20ee0d2d7ac6ec4aa069a61df8d93b0, type: 3}
+  shieldData: {fileID: 11400000, guid: ee5360902d741af4891250cc264f65a9, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cbc30df85905e94291fb338ed8b9205, type: 3}
+  m_Name: EQ Sword Attack
+  m_EditorClassIdentifier: 
+  attackRange: 4
+  skillRange: 0
+  coolDown: 1
+  baseAttackRange: 0
+  baseSkillRange: 0
+  baseCoolDown: 0
+  baseMinDamage: 0
+  baseMaxDamage: 0
+  minDamage: 4
+  maxDamage: 6
+  baseCriticalMultiplier: 0
+  criticalMultiplier: 1
+  baseCriticalChance: 0
+  criticalChance: 0.1

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfae5aaf0e930f4980c77bf6dd3321f, type: 3}
+  m_Name: Life Essence
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: Life Essence
+  itemIcon: {fileID: 21300000, guid: 50a2fa1035596844a8485a0ad4ff073d, type: 3}
+  itemAmount: 1
+  description: 'Life Essence is a healing mechanism that restores the player''s Health
+    back to 100% and adds 5% to the player''s maximum Health. It is the most powerful
+    healing mechanism available. '
+  stackable: 1
+  useableData: {fileID: 11400000, guid: 6e9a7cc52588fb940aa966788b2b5103, type: 2}
+  weaponPrefab: {fileID: 0}
+  weaponData: {fileID: 0}
+  weaponAnimator: {fileID: 0}
+  shieldPrefab: {fileID: 0}
+  shieldData: {fileID: 0}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfae5aaf0e930f4980c77bf6dd3321f, type: 3}
+  m_Name: Wand
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Wand
+  itemIcon: {fileID: 21300000, guid: 0af66ca2d5f0bef4ea66afa7ebc3f432, type: 3}
+  itemAmount: 1
+  description: "Wand is a short-range weapon that curses the enemy. \uF746The enemy
+    is dealt +5 damage if the attack is successful. Wand has a cool-down time of
+    1.5 second, and an attack range of 20m."
+  stackable: 0
+  useableData: {fileID: 0}
+  weaponPrefab: {fileID: 3295605586992216064, guid: bb3339e65604db6449d7e506b7980ad3, type: 3}
+  weaponData: {fileID: 11400000, guid: 30760b005d55ab149b92f6fdc8e58738, type: 2}
+  weaponAnimator: {fileID: 22100000, guid: abcf9f45b8ed9f44db755a4805486048, type: 2}
+  shieldPrefab: {fileID: 0}
+  shieldData: {fileID: 0}

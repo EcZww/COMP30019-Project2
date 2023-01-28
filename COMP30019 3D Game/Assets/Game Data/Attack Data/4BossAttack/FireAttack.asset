@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cbc30df85905e94291fb338ed8b9205, type: 3}
+  m_Name: FireAttack
+  m_EditorClassIdentifier: 
+  attackRange: 5
+  skillRange: 0
+  coolDown: 1.5
+  baseAttackRange: 0
+  baseSkillRange: 0
+  baseCoolDown: 0
+  baseMinDamage: 500
+  baseMaxDamage: 500
+  minDamage: 500
+  maxDamage: 500
+  baseCriticalMultiplier: 0
+  criticalMultiplier: 2
+  baseCriticalChance: 0
+  criticalChance: 0.2
